@@ -181,14 +181,14 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
 alignItems: 'center',
 flex: 1,
-marginBottom:20
+marginBottom:21,
   },
   
   navButtonsWrapper: {
     height: 100,
   },
   logoStyle: {
-    marginTop: 20, //
+    marginTop: 21, //
     width: 100,
     height: 100,
     borderColor:"#616161",
@@ -197,24 +197,24 @@ marginBottom:20
   },
 
   buttonStyle: {
-    marginTop: 20,
-    height: 50,
+    marginTop: 21,
+    height: 51,
     width: "90%",
-    borderRadius: 15,
+    borderRadius: 16,
 
     backgroundColor: "black",
     justifyContent: "center",
   },
 
   buttonFont: {
-    fontSize: 20, //
+    fontSize: 21, //
     color: "white",
   },
   input: {
     height: 40,
     width: "90%",
     borderRadius: 10,
-    marginTop: 20,
+    marginTop: 21,
     paddingLeft: 20,
     backgroundColor: "#f8f8f8",
     shadowColor: "#999999",
@@ -222,14 +222,14 @@ marginBottom:20
       width: 0,
       height: 4,
     },
-    shadowOpacity: 0.62,
+    shadowOpacity: 0.65,
     shadowRadius: 7.46,
     elevation: 9,
   },
   buttonText: {
     color: "white",
     textAlign: "center",
-    fontSize: 16,
+    fontSize: 17,
     fontWeight: "900",
   },
 });
